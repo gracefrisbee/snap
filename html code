@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Page Title</title>
+<title>The Snac</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -15,7 +15,7 @@ body {
   margin: 0;
 }
 
-/* Header/The Snac */
+/* The Snac */
 .header {
   padding: 80px;
   text-align: center;
@@ -56,13 +56,13 @@ body {
 
 /* Change color on hover */
 .navbar a:hover {
-  background-color: #ddd;
+  background-color: #cc0000;
   color: black;
 }
 
 /* Active/current link */
 .navbar a.active {
-  background-color: #666;
+  background-color: #ffff00;
   color: white;
 }
 
@@ -79,7 +79,7 @@ body {
 .side {
   -ms-flex: 30%; /* IE10 */
   flex: 30%;
-  background-color: #f1f1f1;
+  background-color: #000000;
   padding: 20px;
 }
 
@@ -93,7 +93,7 @@ body {
 
 /* Fake image, just for this example */
 .fakeimg {
-  background-color: #aaa;
+  background-color: #ffffff;
   width: 100%;
   padding: 20px;
 }
@@ -102,7 +102,7 @@ body {
 .footer {
   padding: 20px;
   text-align: center;
-  background: #ddd;
+  background: #;
 }
 
 /* Responsive layout - when the screen is less than 700px wide, make the two columns stack on top of each other instead of next to each other */
@@ -124,8 +124,8 @@ body {
 <body>
 
 <div class="header">
-  <h1>My Website</h1>
-  <p>A <b>responsive</b> website created by me.</p>
+  <h1>The Snac</h1>
+  <p>Fun Website Inspired by the Nicklodeon show Victorious</p>
 </div>
 
 <div class="navbar">
@@ -157,8 +157,7 @@ body {
     <h2>TITLE HEADING</h2>
     <h5>Title description, Sep 2, 2017</h5>
     <div class="fakeimg" style="height:200px;">Image</div>
-    <p>Some text..</p>
-    <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+    <p>Work in Progress!!</p>
   </div>
 </div>
 <div class="footer">
