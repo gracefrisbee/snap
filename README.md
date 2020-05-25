@@ -1,6 +1,6 @@
-# Jekyll blog theme
+# The Snac
 
-Simple and nice blog theme based on Inclusion framework.
+Inspired by Victorious
 
 Proudly built with [Jekyll](http://jekyllrb.com/) and [Grunt](http://gruntjs.com/), hosted on [Github](https://github.com).
 Compatible browsers: IE8+, Firefox, Chrome, Opera, Yandex.browser, Safari
